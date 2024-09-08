@@ -72,17 +72,14 @@ This project uses the YOLOv8 model for object detection. The script automaticall
    **Input Image:**
    
    
-   
-    <!-- image path -->
-   
+    ![Example Input Image]([https://user-images.githubusercontent.com/yourusername/yourimageid.jpg](https://private-user-images.githubusercontent.com/88871342/365470845-0d290544-e6fc-482c-8068-cb0911b0eb6c.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU4MzUxNTgsIm5iZiI6MTcyNTgzNDg1OCwicGF0aCI6Ii84ODg3MTM0Mi8zNjU0NzA4NDUtMGQyOTA1NDQtZTZmYy00ODJjLTgwNjgtY2IwOTExYjBlYjZjLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA4VDIyMzQxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiOTAyNWM2MTZiMDgyMmQ1MzBhOTRmYjBiMjI2M2YwMWY3YTZkMjJiNmUyNjE1NzNjMWMzOThiYTRjNDIwNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.TbZMIoccmeurhoVAj5Ld71COxjYwRCCtNURizoRyYbU))
+
    
    
    **Output Image:**
    
    
-   
-    <!-- image path -->
-   
+![Example Output Image]([https://user-images.githubusercontent.com/yourusername/yourimageid.jpg](https://private-user-images.githubusercontent.com/88871342/365470856-bf3c880a-b521-42dc-98f2-296e6fe99e8a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU4MzUxNTgsIm5iZiI6MTcyNTgzNDg1OCwicGF0aCI6Ii84ODg3MTM0Mi8zNjU0NzA4NTYtYmYzYzg4MGEtYjUyMS00MmRjLTk4ZjItMjk2ZTZmZTk5ZThhLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA4VDIyMzQxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFlOTk0YzkzZDhlYWJkNDYwYTg0YzU3YWNiMTAyNzAxOTk3Y2IwNDdiNDNmYTgyYTA1NWI0MjhiMDlkMGZkNzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1va8WMEMAYk77pJnhoMHY73liylgRVL7qYsLUcBO3Gw))
    
    
    ## Troubleshooting
